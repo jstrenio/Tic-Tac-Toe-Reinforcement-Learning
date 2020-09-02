@@ -1,0 +1,3 @@
+probs =[]
+print(sum(probs))
+
